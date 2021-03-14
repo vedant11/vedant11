@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center" width="100%">
-    <img width="500" src="https://user-images.githubusercontent.com/47473330/100709456-2a423f00-33d4-11eb-8198-2001e44dd9ab.png"> 
+    <img width="495" src="https://user-images.githubusercontent.com/47473330/100709456-2a423f00-33d4-11eb-8198-2001e44dd9ab.png"> 
 </p>
